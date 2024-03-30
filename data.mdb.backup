@@ -213,6 +213,17 @@ HEADER=END
 DATA=END
 VERSION=3
 format=bytevalue
+database=obico
+type=btree
+mapsize=209715200
+maxreaders=126
+db_pagesize=4096
+HEADER=END
+ 7072696e7465725f6964
+ 7331
+DATA=END
+VERSION=3
+format=bytevalue
 database=octoeverywhere
 type=btree
 mapsize=209715200
