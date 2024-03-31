@@ -1,4 +1,4 @@
 [Variables]
 filament_sensor = {'runout': 1}
-print_stats = {'filament': 272622.9602900347, 'time': {'filter': 173907, 'total': 173907, 'service': 173907}}
+print_stats = {'filament': 278106.25008003355, 'time': {'filter': 177555, 'total': 177555, 'service': 177555}}
 
